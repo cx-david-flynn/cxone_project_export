@@ -1,0 +1,10 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Exported reports contain tenant data
+*.csv
+
+# Secrets
+.env
